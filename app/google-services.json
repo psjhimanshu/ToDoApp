@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804662851379",
+    "project_id": "tdlist-ad99f",
+    "storage_bucket": "tdlist-ad99f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804662851379:android:fd72ef82f3f3e25f58f046",
+        "android_client_info": {
+          "package_name": "com.example.tdlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj-SgTE8b6yL-InYaDi--ouvdCzjTRAAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
